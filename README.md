@@ -28,3 +28,5 @@ ___
 
 # Made by
 - CryptoGenics
+
+DO NOT RE-RELEASE WITHOUT MY DIRECT PERMISSION
