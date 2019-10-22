@@ -10,3 +10,19 @@ Includes Handling names:
 - Policecar2 (18charger) faster exceleration
 - policechallenger
 - state1
+___
+
+# Installation
+1. Clone this repository.
+2. Extract the zip.
+3. Change Cryptos_police_mod-master to Cryptos_police_mod
+3. Put Cryptos_police_mod to your resource folder.
+4. Add "start Cryptos_police_mod" in your "server.cfg".
+5. Change your vehicles.meta for the police cars you want to change to reference Cryptos handling names
+6. Profit
+
+# Required resource
+- Addon LEO cars
+
+# Made by
+- CryptoGenics
