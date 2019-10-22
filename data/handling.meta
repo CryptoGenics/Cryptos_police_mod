@@ -2,7 +2,7 @@
 
 <CHandlingDataMgr>
   <HandlingData>
-	<Item type="CHandlingData">
+    <Item type="CHandlingData">
       <handlingName>pdcvpi</handlingName>
       <fMass value="2400.000000" />
       <fInitialDragCoeff value="6.000000" />
