@@ -124,7 +124,7 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-	<Item type="CHandlingData">
+    <Item type="CHandlingData">
       <handlingName>policetahoe</handlingName>
       <fMass value="2500.000000" />
       <fInitialDragCoeff value="3.800000" />
@@ -185,7 +185,7 @@
         <Item type="NULL" />
       </SubHandlingData>
     </Item>
-	<Item type="CHandlingData">
+    <Item type="CHandlingData">
       <handlingName>policetahoe2</handlingName>
       <fMass value="2500.000000" />
       <fInitialDragCoeff value="3.800000" />
@@ -372,7 +372,7 @@
       <handlingName>policechallenger</handlingName>
       <fMass value="1900.000000" />
       <fInitialDragCoeff value="6.300000" />
-	    <fDownforceModifier value="1.700000" />
+      <fDownforceModifier value="1.700000" />
       <fPercentSubmerged value="85.000000" />
       <vecCentreOfMassOffset x="0.000000" y="0.000000" z="0.200000" />
       <vecInertiaMultiplier x="1.000000" y="1.000000" z="1.600000" />
