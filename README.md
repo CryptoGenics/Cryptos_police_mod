@@ -1,6 +1,8 @@
 # Cryptos_police_mod
 Handling Lines made for Realistic GTAV (FiveM) LEO Vehicle Handlings
 
+I didn't plan on releasing this but because of some toxic people I am forced to open source this before it hits the script black market or ends up with the wrong credits.
+
 Includes Handling names:
 - pdcvpi
 - policetahoe
